@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-sensi
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/82b57eb8-1983-4fbf-bc75-1c2f66ecc483
+  SUBSCRIPTION-ID: 82b57eb8-1983-4fbf-bc75-1c2f66ecc483
   WEBAPP-NAME: eshoponweb-webapp-sensi
 
 
